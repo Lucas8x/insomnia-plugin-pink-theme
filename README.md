@@ -1,2 +1,2 @@
-# insomnia-plugin-pink-theme
- Insomnia pink theme
+# Pink Theme for Insomnia
+Insomnia pink theme
