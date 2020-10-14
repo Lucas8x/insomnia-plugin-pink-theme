@@ -10,7 +10,11 @@
   "license": "MIT",
   "insomnia": {
 		"name": "pink-theme",
-		"description": "Insomnia pink theme"
+    "description": "Insomnia pink theme",
+    "displayName": "Dark Pink Theme",
+    "images": {
+      "cover": "assets/cover.png"
+    }
 	},
   "repository": {
     "type": "git",
