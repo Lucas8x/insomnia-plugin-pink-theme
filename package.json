@@ -1,0 +1,24 @@
+{
+  "name": "insomnia-plugin-pink-theme",
+  "version": "1.0.0",
+  "description": "Insomnia pink theme",
+  "main": "index.js",
+  "author": {
+    "name": "Lucas Emanuel",
+    "email": "lucasemanuel8x@gmail.com"
+  },
+  "license": "MIT",
+  "insomnia": {
+		"name": "pink-theme",
+		"description": "Insomnia pink theme"
+	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lucas8x/insomnia-plugin-pink-theme"
+  },
+  "keywords": ["insomnia", "plugin", "dark", "pink", "theme"],
+  "bugs": {
+    "url": "https://github.com/Lucas8x/insomnia-plugin-pink-theme/issues"
+  },
+  "homepage": "https://github.com/Lucas8x/insomnia-plugin-pink-theme#readme"
+}
